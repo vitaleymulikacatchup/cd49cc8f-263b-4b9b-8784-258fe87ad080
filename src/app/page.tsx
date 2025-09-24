@@ -15,7 +15,7 @@ export default function Home() {
         <NavbarStyleMinimal
           logoSrc="/images/logo.svg"
           logoAlt="Logo"
-          buttonText="Buy Now"
+          buttonText="Get Started"
         />
       </div>
       <div id="hero" data-section="hero" className="scroll-mt-24">
